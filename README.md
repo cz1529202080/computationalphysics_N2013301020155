@@ -10,3 +10,4 @@ I'm big D
 不过好像显示不出来，太大了吗？  
 >>> print '1 + 1 =', 1 + 1  
 E=m*c**2
+[第三次作业](https://github.com/cz1529202080/computationalphysics_N2013301020155/blob/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A.py)
