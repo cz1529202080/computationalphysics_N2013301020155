@@ -12,4 +12,4 @@ I'm big D
 E=m*c**2  
 
   [第三次作业](https://github.com/cz1529202080/computationalphysics_N2013301020155/blob/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A.py)
-![第四次作业](https://github.com/cz1529202080/computationalphysics_N2013301020155/blob/master/figure_1%20(1).png)
+[第四次作业](https://github.com/cz1529202080/computationalphysics_N2013301020155/blob/master/figure_1%20(1).png)
