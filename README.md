@@ -6,4 +6,5 @@
 [第六次作业](https://github.com/cz1529202080/computationalphysics_N2013301020155/blob/master/%E6%8A%9B%E7%89%A9%E7%94%BB%E5%9B%BE.py)
 [第七次作业](https://github.com/cz1529202080/computationalphysics_N2013301020155/blob/master/problem2.19.py)
 [第八次作业](https://github.com/cz1529202080/computationalphysics_N2013301020155/blob/master/%E7%AC%AC%E5%85%AB%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8E%9F%E5%A7%8B%E4%BB%A3%E7%A0%81.py)
+[第九次作业](https://github.com/cz1529202080/computationalphysics_N2013301020155/blob/master/%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8E%9F%E5%A7%8B%E4%BB%A3%E7%A0%81.py)
 [陈忠2013301020155期末论文](https://github.com/cz1529202080/computationalphysics_N2013301020155/blob/master/%E9%99%88%E5%BF%A0%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E6%9C%9F%E6%9C%AB%E8%AE%BA%E6%96%87.pdf)
